@@ -1,0 +1,193 @@
+{
+  "projectData": [
+    {
+      "id":"1",
+      "bg":"/assets/images/coding_platform.jpeg",
+      "tittle": "Coding Platform",
+      "text": "A ReactJS-based platform for coding practice, real-time collaboration, and problem-solving.",
+      "tools": [
+        "ReactJs",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "NextJs"
+      ]
+    },
+    {
+      "id":"2",
+      "bg":"/assets/images/sassyai.jpg",
+      "tittle": "Sassy ai",
+      "text": "A platform that removes backgrounds from images and enhances quality while optimizing dimensions.",
+      "tools": [
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "Typecript"
+      ]
+    },
+    {
+      "id":"3",
+
+      "bg":"/assets/images/geminiaiclone.png",
+      "tittle": "Gemini Ai clone",
+      "text": "A Gemini AI clone that simulates intelligent conversations and provides personalized responses .",
+      "tools": [
+        "Typescript",
+        "NextJs",
+        "Nextscript",
+        "node.js"
+      ]
+    },
+    {
+      "id":"4",
+
+      "bg":"/assets/images/myntra.jpg",
+      "tittle": "Myntra Clone",
+      "text": "A Myntra clone replicating an e-commerce platform with features for browsing, purchasing, and managing fashion products.",
+      "tools": [
+        "ReactJs",
+        "CSS",
+        "HTML",
+        "Javascript"
+      ]
+    },
+    {
+      "id":"5",
+
+      "bg":"/assets/images/interview.jpeg",
+      "tittle": "Ai interview mobile app",
+      "text": "An AI-driven platform for real-time interview practice and mock tests, utilizing NLP and machine learning for accurate candidate evaluation.",
+      "tools": [
+        "Dart Language",
+        "flutter"
+      ]
+    },
+    {
+      "id":"6",
+
+      "bg":"/assets/images/e-commerce.jpeg",
+      "tittle": "E-commerce mobile app",
+      "text": "Developed a comprehensive e-commerce mobile app with features including user authentication, product catalog, shopping cart.",
+      "tools": [
+        "Dart Language",
+        "flutter"
+      ]
+    }
+  ],
+  "Recommendations": [
+    {
+      "id": "1",
+      "image": "/assets/images/rating.png",
+      "heading": "Good",
+      "description": "Consistently demonstrates strong core skills and adaptability, coupled with eagerness to learn. Shows promise and contributes positively as a fresh talent.",
+      "pic": "/assets/images/dsp.jpeg",
+      "name": "Durga Sai Prasad",
+      "profession": "React trainer"
+    },
+    {
+      "id": "2",
+      "image": "/assets/images/rating.png",
+      "heading": "Proficient",
+      "description": "Exhibits strong proficiency in technical tasks and a commendable approach to teamwork, showing both skill and a willingness to grow in the role",
+      "pic": "/assets/images/vasant.jpeg",
+      "name": "Vasant",
+      "profession": "Flutter trainer"
+    },
+    {
+      "id": "3",
+      "image": "/assets/images/rating.png",
+      "heading": "Remarkable",
+      "description": "Performance is commendable, with a solid grasp of coding languages and a professional attitude. Shows potential and enthusiasm as a fresh talent.",
+      "pic": "/assets/images/ashok.jpeg",
+      "name": "Ashok Maranala",
+      "profession": "Coding mentor"
+    }
+  ],
+  "Skillspage": [
+    {
+      "heading": "Front End Development",
+      "skills": [
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "CSS",
+          "progress": "90"
+        },
+        {
+          "title": "Javascript",
+          "progress": "75"
+        },
+        {
+          "title": "ReactJs",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Programming Languages",
+      "skills": [
+        {
+          "title": "Java",
+          "progress": "80"
+        },
+        {
+          "title": "C++",
+          "progress": "90"
+        },
+        {
+          "title": "Python",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Machine learning and Ai",
+      "skills": [
+        {
+          "title": "Machine learning concepts",
+          "progress": "90"
+        },
+        {
+          "title": "Deep learning",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Mbile app development",
+      "skills": [
+        {
+          "title": "Java Framework",
+          "progress": "80"
+        },
+        {
+          "title": "Flutter Framewqork",
+          "progress": "70"
+        },
+        {
+          "title": "Dart",
+          "progress": "75"
+        }
+        
+
+      ]
+    },
+    {
+      "heading": "Languages",
+      "skills": [
+        {
+          "title": "Hindi",
+          "progress": "95"
+        },
+        {
+          "title": "English",
+          "progress": "90"
+        }
+      
+      ]
+    }
+     ]
+}

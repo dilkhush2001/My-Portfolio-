@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+}
+.recomend_main {
+    width: 100%;
+    height: 519.17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.rtitle_bar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+.rtitle {
+    width: 502px;
+    height: 92px;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    gap: 12px;
+}
+
+.rtitle_heading {
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: #2B2B2B;
+}
+
+.rtitle_description {
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: #767676;
+}
+@media screen and (max-width:509px){
+    .rtitle{
+        width:300px;
+        
+    }
+}
+/* .caurosalparent{
+    width: 100%;
+    padding-left: 96px;
+    padding-right: 96px;
+} */
+
+.caurosal { 
+    height: 327.1px;
+    width: 100%;
+    padding-left: 96px;
+    padding-right: 96px;
+    z-index: -999999999;
+}
+
+.sliderparent{
+    margin-left: 25px;
+}
+
+.caurosal_card {
+    box-sizing: border-box !important;
+    width: 340px !important;
+    height: 327px ;
+    background-color: white;
+    padding: 25.07px 34px 27px 18.65px ;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}
+
+.caurosal_card img {
+    width: 142.58px;
+    height: 17.49px;
+}
+
+.card_title {
+    font-size: 18px;
+    font-weight: 500;
+    color: #2B2B2B;
+}
+
+.card_description {
+    font-size: 15px;
+    font-weight: 400;
+    color: #767676;
+    line-height: 24px;
+}
+
+.card_personal_detail {
+    display: flex;
+    gap: 18.13px;
+}
+
+.card_personal_detail img {
+    width: 87.74px;
+    height: 80.57px;
+}
+
+/* css  */
+
+.sliderwidth{
+    width: 90%;
+}
+
+
