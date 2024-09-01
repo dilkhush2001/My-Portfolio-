@@ -6,7 +6,7 @@ function HeroSection() {
             <div className='HeroChild'>
                 <div className="Name">
                     <div>I'M Dilkhush</div>
-                    <span>Front-end</span> Developer
+                    <span>Front-end Web and Mobile App</span> Developer
                 </div>
                 <div className="Description">
                 <div>"Design and develop responsive, user-friendly web interfaces,</div><div>driving project success through front-end expertise and collaboration."</div>
